@@ -1,1 +1,1 @@
-fseohfsoh_criticalgamecode=1
+fseohfsoh_criticalgamecode=0
